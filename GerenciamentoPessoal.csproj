@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AC85C84E-48F4-4139-B7BB-418A483A46FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GerenciamentoPessoal</RootNamespace>
+    <AssemblyName>GerenciamentoPessoal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Sem título-2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView, Version=0.1.0.10, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\ADGV.0.1.0.10\lib\net40\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>packages\MySqlConnector.2.2.7\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="ObjectListView, Version=2.9.1.1072, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4, processorArchitecture=MSIL">
+      <HintPath>packages\ObjectListView.Official.2.9.1\lib\net20\ObjectListView.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.DiagnosticSource.6.0.0\lib\net461\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="formGerenteFinanceiroAdicionarItens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroAdicionarItens.Designer.cs">
+      <DependentUpon>formGerenteFinanceiroAdicionarItens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultadosIniciativasAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultadosIniciativasAdicionar.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasResultadosIniciativasAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultadosIniciativas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultadosIniciativas.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasResultadosIniciativas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasRecompensasAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasRecompensasAdicionar.Designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasRecompensasAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasRecompensasObjetivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasRecompensasObjetivos.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasRecompensasObjetivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasRecompensas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasRecompensas.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasRecompensas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultadosAcompanhamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultadosAcompanhamento.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasResultadosAcompanhamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultadosAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultadosAdicionar.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasResultadosAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasResultados.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasResultados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetasAdicionar.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetasAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeMetas.designer.cs">
+      <DependentUpon>formGerentePersonalidadeMetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroDespesasOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroDespesasOrcamento.Designer.cs">
+      <DependentUpon>formGerenteFinanceiroDespesasOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosTreinosAgendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosTreinosAgendar.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosTreinosAgendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComandosSQL.cs" />
+    <Compile Include="Conexao.cs" />
+    <Compile Include="formGerenteFinanceiroDespesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroDespesas.designer.cs">
+      <DependentUpon>formGerenteFinanceiroDespesas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroDespesasAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroDespesasAdicionar.designer.cs">
+      <DependentUpon>formGerenteFinanceiroDespesasAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteProfissional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteProfissional.designer.cs">
+      <DependentUpon>formGerenteProfissional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteProfissionalAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteProfissionalAdicionar.designer.cs">
+      <DependentUpon>formGerenteProfissionalAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteLogins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteLogins.designer.cs">
+      <DependentUpon>formGerenteLogins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteLoginsAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteLoginsAdicionar.designer.cs">
+      <DependentUpon>formGerenteLoginsAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentos.Designer.cs">
+      <DependentUpon>formGerenteTreinamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosExercicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosExercicios.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosExercicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosFrases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosFrases.designer.cs">
+      <DependentUpon>formGerenteTreinamentosFrases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosExerciciosAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosExerciciosAdicionar.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosExerciciosAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosTreinosAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosTreinosAdicionar.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosTreinosAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosGruposAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosGruposAdicionar.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosGruposAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosInicial.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosTreinos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosTreinos.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosTreinos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosTreinosExercicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosTreinosExercicios.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosTreinosExercicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlano.designer.cs">
+      <DependentUpon>formGerentePersonalidadePlano.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlanoAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlanoAdicionar.designer.cs">
+      <DependentUpon>formGerentePersonalidadePlanoAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlanoEtapas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlanoEtapas.designer.cs">
+      <DependentUpon>formGerentePersonalidadePlanoEtapas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlanoEtapasChecklist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlanoEtapasChecklist.designer.cs">
+      <DependentUpon>formGerentePersonalidadePlanoEtapasChecklist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlanoCustos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePlanoCustos.designer.cs">
+      <DependentUpon>formGerentePersonalidadePlanoCustos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formLoginCadastrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formLoginCadastrarUsuario.Designer.cs">
+      <DependentUpon>formLoginCadastrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroFluxo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroFluxo.designer.cs">
+      <DependentUpon>formGerenteFinanceiroFluxo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroFluxoCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroFluxoCategorias.designer.cs">
+      <DependentUpon>formGerenteFinanceiroFluxoCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroFluxoCategoriasAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroFluxoCategoriasAdicionar.designer.cs">
+      <DependentUpon>formGerenteFinanceiroFluxoCategoriasAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroLancamentosContas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroLancamentosContas.designer.cs">
+      <DependentUpon>formGerenteFinanceiroLancamentosContas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroLancamentosContasAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroLancamentosContasAdicionar.designer.cs">
+      <DependentUpon>formGerenteFinanceiroLancamentosContasAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroLancamentosTransferencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroLancamentosTransferencias.designer.cs">
+      <DependentUpon>formGerenteFinanceiroLancamentosTransferencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroSaldo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroSaldo.designer.cs">
+      <DependentUpon>formGerenteFinanceiroSaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiro.designer.cs">
+      <DependentUpon>formGerenteFinanceiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteFinanceiroAdicionar.designer.cs">
+      <DependentUpon>formGerenteFinanceiroAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerente.Designer.cs">
+      <DependentUpon>formGerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidade.Designer.cs">
+      <DependentUpon>formGerentePersonalidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePapeis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePapeis.Designer.cs">
+      <DependentUpon>formGerentePersonalidadePapeis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePapeisAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePapeisAdicionar.Designer.cs">
+      <DependentUpon>formGerentePersonalidadePapeisAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePapeisTarefas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePapeisTarefas.Designer.cs">
+      <DependentUpon>formGerentePersonalidadePapeisTarefas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePapeisTarefasAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadePapeisTarefasAdicionar.Designer.cs">
+      <DependentUpon>formGerentePersonalidadePapeisTarefasAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formLogin.Designer.cs">
+      <DependentUpon>formLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formRepAfazeres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRepAfazeres.Designer.cs">
+      <DependentUpon>formRepAfazeres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formRepPlano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRepPlano.Designer.cs">
+      <DependentUpon>formRepPlano.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formRepTreino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRepTreino.Designer.cs">
+      <DependentUpon>formRepTreino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formTarefasDiarias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formTarefasDiarias.Designer.cs">
+      <DependentUpon>formTarefasDiarias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formTarefasDoDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formTarefasDoDia.Designer.cs">
+      <DependentUpon>formTarefasDoDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeTarefaSemanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerentePersonalidadeTarefaSemanal.Designer.cs">
+      <DependentUpon>formGerentePersonalidadeTarefaSemanal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formTema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formTema.Designer.cs">
+      <DependentUpon>formTema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosFrasesAdicionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formGerenteTreinamentosFrasesAdicionar.Designer.cs">
+      <DependentUpon>formGerenteTreinamentosFrasesAdicionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImpressaoDireta.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sombra.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="SuggestComboBox.cs" />
+    <EmbeddedResource Include="formGerenteFinanceiroAdicionarItens.resx">
+      <DependentUpon>formGerenteFinanceiroAdicionarItens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasResultadosIniciativasAdicionar.resx">
+      <DependentUpon>formGerentePersonalidadeMetasResultadosIniciativasAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasResultadosIniciativas.resx">
+      <DependentUpon>formGerentePersonalidadeMetasResultadosIniciativas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasRecompensasAdicionar.resx">
+      <DependentUpon>formGerentePersonalidadeMetasRecompensasAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasRecompensasObjetivos.resx">
+      <DependentUpon>formGerentePersonalidadeMetasRecompensasObjetivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasRecompensas.resx">
+      <DependentUpon>formGerentePersonalidadeMetasRecompensas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasResultadosAcompanhamento.resx">
+      <DependentUpon>formGerentePersonalidadeMetasResultadosAcompanhamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasResultadosAdicionar.resx">
+      <DependentUpon>formGerentePersonalidadeMetasResultadosAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasResultados.resx">
+      <DependentUpon>formGerentePersonalidadeMetasResultados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetasAdicionar.resx">
+      <DependentUpon>formGerentePersonalidadeMetasAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeMetas.resx">
+      <DependentUpon>formGerentePersonalidadeMetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroDespesas.resx">
+      <DependentUpon>formGerenteFinanceiroDespesas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroDespesasAdicionar.resx">
+      <DependentUpon>formGerenteFinanceiroDespesasAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroDespesasOrcamento.resx">
+      <DependentUpon>formGerenteFinanceiroDespesasOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteProfissional.resx">
+      <DependentUpon>formGerenteProfissional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteProfissionalAdicionar.resx">
+      <DependentUpon>formGerenteProfissionalAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteLogins.resx">
+      <DependentUpon>formGerenteLogins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteLoginsAdicionar.resx">
+      <DependentUpon>formGerenteLoginsAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentos.resx">
+      <DependentUpon>formGerenteTreinamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosExercicios.resx">
+      <DependentUpon>formGerenteTreinamentosExercicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosFrases.resx">
+      <DependentUpon>formGerenteTreinamentosFrases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosExerciciosAdicionar.resx">
+      <DependentUpon>formGerenteTreinamentosExerciciosAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosTreinosAdicionar.resx">
+      <DependentUpon>formGerenteTreinamentosTreinosAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosGruposAdicionar.resx">
+      <DependentUpon>formGerenteTreinamentosGruposAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosInicial.resx">
+      <DependentUpon>formGerenteTreinamentosInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosTreinos.resx">
+      <DependentUpon>formGerenteTreinamentosTreinos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosTreinosAgendar.resx">
+      <DependentUpon>formGerenteTreinamentosTreinosAgendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosTreinosExercicios.resx">
+      <DependentUpon>formGerenteTreinamentosTreinosExercicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePlano.resx">
+      <DependentUpon>formGerentePersonalidadePlano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePlanoAdicionar.resx">
+      <DependentUpon>formGerentePersonalidadePlanoAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePlanoEtapas.resx">
+      <DependentUpon>formGerentePersonalidadePlanoEtapas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePlanoEtapasChecklist.resx">
+      <DependentUpon>formGerentePersonalidadePlanoEtapasChecklist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePlanoCustos.resx">
+      <DependentUpon>formGerentePersonalidadePlanoCustos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formLoginCadastrarUsuario.resx">
+      <DependentUpon>formLoginCadastrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroFluxo.resx">
+      <DependentUpon>formGerenteFinanceiroFluxo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroFluxoCategorias.resx">
+      <DependentUpon>formGerenteFinanceiroFluxoCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroFluxoCategoriasAdicionar.resx">
+      <DependentUpon>formGerenteFinanceiroFluxoCategoriasAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroLancamentosContas.resx">
+      <DependentUpon>formGerenteFinanceiroLancamentosContas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroLancamentosContasAdicionar.resx">
+      <DependentUpon>formGerenteFinanceiroLancamentosContasAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroLancamentosTransferencias.resx">
+      <DependentUpon>formGerenteFinanceiroLancamentosTransferencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroSaldo.resx">
+      <DependentUpon>formGerenteFinanceiroSaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiro.resx">
+      <DependentUpon>formGerenteFinanceiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteFinanceiroAdicionar.resx">
+      <DependentUpon>formGerenteFinanceiroAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerente.resx">
+      <DependentUpon>formGerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidade.resx">
+      <DependentUpon>formGerentePersonalidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePapeis.resx">
+      <DependentUpon>formGerentePersonalidadePapeis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePapeisAdicionar.resx">
+      <DependentUpon>formGerentePersonalidadePapeisAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePapeisTarefas.resx">
+      <DependentUpon>formGerentePersonalidadePapeisTarefas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadePapeisTarefasAdicionar.resx">
+      <DependentUpon>formGerentePersonalidadePapeisTarefasAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formLogin.resx">
+      <DependentUpon>formLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRepAfazeres.resx">
+      <DependentUpon>formRepAfazeres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRepPlano.resx">
+      <DependentUpon>formRepPlano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRepTreino.resx">
+      <DependentUpon>formRepTreino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formTarefasDiarias.resx">
+      <DependentUpon>formTarefasDiarias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formTarefasDoDia.resx">
+      <DependentUpon>formTarefasDoDia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerentePersonalidadeTarefaSemanal.resx">
+      <DependentUpon>formGerentePersonalidadeTarefaSemanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formTema.resx">
+      <DependentUpon>formTema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formGerenteTreinamentosFrasesAdicionar.resx">
+      <DependentUpon>formGerenteTreinamentosFrasesAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="repPlano.rdlc" />
+    <EmbeddedResource Include="repAfazeres.rdlc" />
+    <EmbeddedResource Include="repTreino.rdlc" />
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Afazer.datasource" />
+    <None Include="Properties\DataSources\Checklist.datasource" />
+    <None Include="Properties\DataSources\Custo.datasource" />
+    <None Include="Properties\DataSources\Exercicio.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Sem título-1.ico" />
+    <Content Include="Sem título-2.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

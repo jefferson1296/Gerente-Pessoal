@@ -1,0 +1,796 @@
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe.config
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.pdb
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDoDia.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefaSemanal.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.Properties.Resources.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.GenerateResource.cache
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.exe
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.pdb
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDiarias.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csprojAssemblyReference.cache
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.dll
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.xml
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formFinancas.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CopyComplete
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formFinancasAgendamentos.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formFinancasRegistrar.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerente.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteGerenciamentoPessoal.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLogin.resources
+C:\Users\jeffe\source\repos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formCadastrarUsuario.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerente.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidade.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeis.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLogin.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDiarias.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDoDia.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.Properties.Resources.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.GenerateResource.cache
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.exe
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.pdb
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe.config
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.pdb
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.xml
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CopyComplete
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTema.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeTarefaSemanal.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefas.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefasAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiro.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ObjectListView.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ObjectListView.xml
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLoginCadastrarUsuario.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxo.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategorias.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategoriasAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContas.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContasAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosTransferencias.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroSaldo.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissional.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissionalAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesas.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLogins.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLoginsAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentos.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExercicios.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosInicial.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinos.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrases.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosGruposAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrasesAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExerciciosAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosExercicios.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAgendar.resources
+F:\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe.config
+F:\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe
+F:\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.pdb
+F:\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\GerenciamentoPessoal\bin\Debug\ObjectListView.dll
+F:\GerenciamentoPessoal\bin\Debug\EnvDTE.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\GerenciamentoPessoal\bin\Debug\stdole.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\GerenciamentoPessoal\bin\Debug\Microsoft.MSXML.dll
+F:\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.xml
+F:\GerenciamentoPessoal\bin\Debug\ObjectListView.xml
+F:\GerenciamentoPessoal\bin\Debug\fr\AdvancedDataGridView.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ru\AdvancedDataGridView.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csprojAssemblyReference.cache
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesas.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissional.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissionalAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLogins.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLoginsAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentos.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExercicios.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrases.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExerciciosAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosGruposAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosInicial.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinos.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAgendar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosExercicios.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLoginCadastrarUsuario.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxo.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategorias.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategoriasAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContas.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContasAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosTransferencias.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroSaldo.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiro.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerente.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidade.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeis.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefas.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefasAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLogin.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDiarias.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDoDia.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeTarefaSemanal.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTema.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrasesAdicionar.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.Properties.Resources.resources
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.GenerateResource.cache
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CoreCompileInputs.cache
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CopyComplete
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.exe
+F:\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.pdb
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\EnvDTE.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\stdole.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\RdlCompile.cache
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepTreino.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasOrcamento.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csprojAssemblyReference.cache
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultados.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetas.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAcompanhamento.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasObjetivos.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensas.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativasAdicionar.resources
+C:\Users\Administrador.WIN-IASFJOKMTG5\Desktop\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativas.resources
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe.config
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.pdb
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ObjectListView.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\EnvDTE.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\stdole.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.xml
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ObjectListView.xml
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.AssemblyReference.cache
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.SuggestedBindingRedirects.cache
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativasAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativas.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasObjetivos.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensas.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAcompanhamento.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultados.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetas.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesas.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasOrcamento.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissional.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissionalAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLogins.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLoginsAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentos.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExercicios.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrases.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExerciciosAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosGruposAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosInicial.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinos.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAgendar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosExercicios.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLoginCadastrarUsuario.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxo.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategorias.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategoriasAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContas.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContasAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosTransferencias.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroSaldo.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiro.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerente.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidade.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeis.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefas.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefasAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLogin.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepTreino.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDiarias.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDoDia.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeTarefaSemanal.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTema.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrasesAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.Properties.Resources.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.GenerateResource.cache
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CoreCompileInputs.cache
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CopyComplete
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.exe
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.pdb
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlano.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoAdicionar.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoEtapas.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoEtapasChecklist.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoCustos.resources
+D:\Pastas\Apps\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepPlano.resources
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe.config
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.pdb
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ObjectListView.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\EnvDTE.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\stdole.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.xml
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ObjectListView.xml
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.AssemblyReference.cache
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.SuggestedBindingRedirects.cache
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativasAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativas.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasObjetivos.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensas.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAcompanhamento.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultados.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetas.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesas.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasOrcamento.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissional.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissionalAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLogins.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLoginsAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentos.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExercicios.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrases.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExerciciosAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosGruposAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosInicial.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinos.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAgendar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosExercicios.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlano.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoEtapas.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoEtapasChecklist.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoCustos.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLoginCadastrarUsuario.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxo.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategorias.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategoriasAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContas.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContasAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosTransferencias.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroSaldo.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiro.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerente.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidade.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeis.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefas.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefasAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLogin.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepPlano.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepTreino.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDiarias.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDoDia.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeTarefaSemanal.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTema.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrasesAdicionar.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.Properties.Resources.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.GenerateResource.cache
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CoreCompileInputs.cache
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CopyComplete
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.exe
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.pdb
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionarItens.resources
+D:\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepAfazeres.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe.config
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.pdb
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ObjectListView.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\EnvDTE.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\stdole.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.xml
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ObjectListView.xml
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.AssemblyReference.cache
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.SuggestedBindingRedirects.cache
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionarItens.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativasAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativas.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasObjetivos.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensas.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAcompanhamento.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultados.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetas.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesas.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasOrcamento.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissional.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissionalAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLogins.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLoginsAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentos.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExercicios.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrases.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExerciciosAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosGruposAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosInicial.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinos.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAgendar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosExercicios.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlano.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoEtapas.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoEtapasChecklist.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoCustos.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLoginCadastrarUsuario.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxo.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategorias.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategoriasAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContas.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContasAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosTransferencias.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroSaldo.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiro.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerente.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidade.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeis.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefas.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefasAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLogin.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepAfazeres.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepPlano.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepTreino.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDiarias.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDoDia.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeTarefaSemanal.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTema.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrasesAdicionar.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.Properties.Resources.resources
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.GenerateResource.cache
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CoreCompileInputs.cache
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CopyComplete
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.exe
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.pdb
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\MySqlConnector.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Buffers.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Memory.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Numerics.Vectors.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\MySqlConnector.xml
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Buffers.xml
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Memory.xml
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Numerics.Vectors.xml
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Jefferson\Programação\Aplicativos\GerenciamentoPessoal\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe.config
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.exe
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\GerenciamentoPessoal.pdb
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Common.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.Design.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\Microsoft.SqlServer.Types.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\MySqlConnector.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ObjectListView.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Buffers.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Memory.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Numerics.Vectors.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\EnvDTE.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\stdole.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\AdvancedDataGridView.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\MySqlConnector.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ObjectListView.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Buffers.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Memory.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Numerics.Vectors.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\fr\AdvancedDataGridView.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ru\AdvancedDataGridView.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.AssemblyReference.cache
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.SuggestedBindingRedirects.cache
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionarItens.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativasAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosIniciativas.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensasObjetivos.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasRecompensas.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAcompanhamento.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultadosAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasResultados.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetasAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeMetas.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesas.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroDespesasOrcamento.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissional.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteProfissionalAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLogins.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteLoginsAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentos.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExercicios.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrases.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosExerciciosAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosGruposAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosInicial.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinos.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosAgendar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosTreinosExercicios.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlano.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoEtapas.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoEtapasChecklist.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePlanoCustos.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLoginCadastrarUsuario.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxo.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategorias.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroFluxoCategoriasAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContas.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosContasAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroLancamentosTransferencias.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroSaldo.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiro.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteFinanceiroAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerente.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidade.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeis.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefas.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadePapeisTarefasAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formLogin.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepAfazeres.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepPlano.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formRepTreino.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDiarias.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTarefasDoDia.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerentePersonalidadeTarefaSemanal.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formTema.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.formGerenteTreinamentosFrasesAdicionar.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.Properties.Resources.resources
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.GenerateResource.cache
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CoreCompileInputs.cache
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.csproj.CopyComplete
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.exe
+I:\Meu Drive\GerenciamentoPessoal\obj\Debug\GerenciamentoPessoal.pdb
